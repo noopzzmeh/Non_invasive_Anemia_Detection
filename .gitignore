@@ -1,0 +1,6 @@
+drive/
+.config/
+sample_data/
+*.gdoc
+*.gsheet
+*.ipynb_checkpoints/
